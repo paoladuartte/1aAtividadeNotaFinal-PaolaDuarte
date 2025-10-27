@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(211, 211, 211); 
+    background-color: rgb(226, 225, 225); 
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 50px;
@@ -8,7 +8,7 @@ body {
 }
 
 
-button {
+#botao-cor {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
@@ -19,6 +19,6 @@ button {
     transition: background-color 0.5s, color a.5s;
 }
 
-button:hover {
+#botao-cor:hover {
     background-color: #555;
 }
